@@ -1,0 +1,13 @@
+[2022-01-15 14:15:58] [info] asio async_connect error: system:61 (Connection refused)
+[2022-01-15 14:15:58] [info] Error getting remote endpoint: system:22 (Invalid argument)
+[2022-01-15 14:15:58] [error] handle_connect error: Underlying Transport Error
+[mp3float @ 0x1490ef600] Could not update timestamps for skipped samples.
+[mp3 @ 0x149053e00] Estimating duration from bitrate, this may be inaccurate
+[mp3 @ 0x14a00f800] Estimating duration from bitrate, this may be inaccurate
+[mp3float @ 0x14a01f600] Could not update timestamps for skipped samples.
+[mp3float @ 0x129038000] Could not update timestamps for skipped samples.
+CoreAudioOut: draining...
+CoreAudioOut: drained.
+[2022-01-15 15:13:21] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
+CoreAudioOut: draining...
+CoreAudioOut: drained.

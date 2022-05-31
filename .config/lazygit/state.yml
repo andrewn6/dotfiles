@@ -1,0 +1,21 @@
+lastupdatecheck: 0
+recentrepos:
+- /Users/andrew/dev/beam
+- /Users/andrew/dev/bootstrap
+- /Users/andrew/dev/lemon/mono
+- /Users/andrew/dev/void
+- /Users/andrew/dev/nijmeh.xyz
+- /Users/andrew/dev/triffle/mobile
+- /Users/andrew/dev/triffle/backend
+- /Users/andrew/dev/triffle/dashboard
+- /Users/andrew/dev/fusion
+- /Users/andrew/dev/triffle/rust-api
+- /Users/andrew/dev/triffle/rust-server/rust-server
+- /Users/andrew/dev/andrews-blog/andrews-blog
+- /Users/andrew/.config/nixpkgs
+- /Users/andrew/dev/galaxydb
+- /Users/andrew/.config
+startuppopupversion: 5
+customcommandshistory:
+- q
+hidecommandlog: false

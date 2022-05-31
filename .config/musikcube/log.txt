@@ -1,0 +1,66 @@
+14:15:57 [info] [LOG SESSION] ---------- START ----------
+14:15:57 [info] [PluginFactory] loading plugins
+14:15:57 [info] [PluginFactory] loaded: /opt/homebrew/share/musikcube/plugins/libsupereqdsp.dylib
+14:15:57 [info] [PluginFactory] loaded: /opt/homebrew/share/musikcube/plugins/libmacosmediakeys.dylib
+14:15:57 [info] [PluginFactory] loaded: /opt/homebrew/share/musikcube/plugins/libtaglibreader.dylib
+14:15:57 [info] [PluginFactory] loaded: /opt/homebrew/share/musikcube/plugins/libstockencoders.dylib
+14:15:57 [info] [PluginFactory] loaded: /opt/homebrew/share/musikcube/plugins/libserver.dylib
+14:15:57 [info] [PluginFactory] loaded: /opt/homebrew/share/musikcube/plugins/libopenmptdecoder.dylib
+14:15:57 [info] [PluginFactory] loaded: /opt/homebrew/share/musikcube/plugins/libhttpdatastream.dylib
+14:15:57 [info] [PluginFactory] loaded: /opt/homebrew/share/musikcube/plugins/libgmedecoder.dylib
+14:15:57 [info] [PluginFactory] loaded: /opt/homebrew/share/musikcube/plugins/libnullout.dylib
+14:15:57 [info] [PluginFactory] loaded: /opt/homebrew/share/musikcube/plugins/libffmpegdecoder.dylib
+14:15:57 [info] [PluginFactory] loaded: /opt/homebrew/share/musikcube/plugins/libcoreaudioout.dylib
+14:15:58 [info] [Indexer] indexer source 197490949 running...
+14:15:58 [info] [Indexer] indexer source 197490949 finished
+14:15:58 [info] [Indexer] indexer source 1859739243 running...
+14:15:58 [info] [Indexer] indexer source 1859739243 finished
+14:15:58 [info] [Indexer] scanning /Users/andrew/Desktop/Music/
+14:15:58 [info] [Indexer] scan completed successfully
+14:15:58 [info] [Indexer] cleanup 1/2
+14:15:58 [info] [Indexer] cleanup 2/2
+14:15:58 [info] [Indexer] optimizing
+14:15:58 [info] [Indexer] done!
+14:15:58 [info] [macosmediakeys] listening to media keys
+14:15:58 [info] [CrossfadeTransport] trying to play /Users/andrew/Desktop/Music/04 - Jet Pilot (Album Version).mp3
+14:15:58 [info] [Player] new instance created
+14:15:58 [info] [Stream] opening /Users/andrew/Desktop/Music/04 - Jet Pilot (Album Version).mp3
+14:15:58 [info] [LocalFileStream] opening file: /Users/andrew/Desktop/Music/04 - Jet Pilot (Album Version).mp3
+14:15:58 [info] [ffmpegdecoder] parsing data stream...
+14:15:58 [info] [ffmpegdecoder] found audio stream!
+14:15:58 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:15:58 [info] [Streams] found a decoder for /Users/andrew/Desktop/Music/04 - Jet Pilot (Album Version).mp3
+14:15:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+14:16:05 [info] [CrossfadeTransport] trying to play /Users/andrew/Desktop/Music/Steal This Album/Bubbles.mp3
+14:16:05 [info] [Player] new instance created
+14:16:05 [info] [Stream] opening /Users/andrew/Desktop/Music/Steal This Album/Bubbles.mp3
+14:16:05 [info] [LocalFileStream] opening file: /Users/andrew/Desktop/Music/Steal This Album/Bubbles.mp3
+14:16:05 [info] [ffmpegdecoder] parsing data stream...
+14:16:05 [info] [ffmpegdecoder] found audio stream!
+14:16:05 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:16:05 [info] [Streams] found a decoder for /Users/andrew/Desktop/Music/Steal This Album/Bubbles.mp3
+14:16:06 [info] [Player] new instance created
+14:16:06 [info] [Stream] opening /Users/andrew/Desktop/Music/Steal This Album/Nüguns.mp3
+14:16:06 [info] [LocalFileStream] opening file: /Users/andrew/Desktop/Music/Steal This Album/Nüguns.mp3
+14:16:06 [info] [ffmpegdecoder] parsing data stream...
+14:16:06 [info] [ffmpegdecoder] found audio stream!
+14:16:06 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:16:06 [info] [Streams] found a decoder for /Users/andrew/Desktop/Music/Steal This Album/Nüguns.mp3
+14:17:50 [info] [CrossfadeTransport] trying to play /Users/andrew/Desktop/Music/07 - Bounce (Album Version).mp3
+14:17:50 [info] [Player] new instance created
+14:17:50 [info] [Stream] opening /Users/andrew/Desktop/Music/07 - Bounce (Album Version).mp3
+14:17:50 [info] [LocalFileStream] opening file: /Users/andrew/Desktop/Music/07 - Bounce (Album Version).mp3
+14:17:50 [info] [ffmpegdecoder] parsing data stream...
+14:17:50 [info] [ffmpegdecoder] found audio stream!
+14:17:50 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:17:50 [info] [Streams] found a decoder for /Users/andrew/Desktop/Music/07 - Bounce (Album Version).mp3
+14:17:50 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+14:17:50 [info] [Player] new instance created
+14:17:50 [info] [Stream] opening /Users/andrew/Desktop/Music/08 - Forest (Album Version).mp3
+14:17:50 [info] [LocalFileStream] opening file: /Users/andrew/Desktop/Music/08 - Forest (Album Version).mp3
+14:17:50 [info] [ffmpegdecoder] parsing data stream...
+14:17:50 [info] [ffmpegdecoder] found audio stream!
+14:17:50 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:17:50 [info] [Streams] found a decoder for /Users/andrew/Desktop/Music/08 - Forest (Album Version).mp3
+14:17:50 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+15:13:22 [info] [macosmediakeys] unregistered media keys
