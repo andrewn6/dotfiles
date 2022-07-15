@@ -1,8 +1,12 @@
 # dotfiles
 
-<p align="center">
-  <img src="assets/asset.png">
-</p>
+These are my dotfiles.
 
-<div align="center">
-
+## Overview
+  - Shell: zsh (starship)
+  - Terminal: Kitty
+  - Font: Victor Mono
+  - MacBook: 14" M1 Pro (w/ 16GB of ram + 1TB storage)
+  
+ 
+*Feel free to copy my dotfiles and use them on your own setup :)*
