@@ -1,6 +1,6 @@
 # dotfiles
 
-<img width="1800" align="right" alt="image" src="https://user-images.githubusercontent.com/59238070/204353328-761fb68a-7eb9-4f5a-8827-3ca9de324841.png">
+<img align="right" width="40%" src="https://user-images.githubusercontent.com/59238070/204355800-72fc5373-445c-494c-b4a5-89527b4be602.png" alt="Screenshot">
 
 
 These are my dotfiles.
